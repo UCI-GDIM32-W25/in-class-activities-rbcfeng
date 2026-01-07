@@ -24,12 +24,13 @@ Q4: MonoBehaviour
 Q5: The lines of code calls the method "PrintMessage()" with the argument 10 in the parenthesis. The method prints "x = 10" in the debug log.
 
 
-Q6: The first highlighted line is the argument and the second highlighted line is the debug log message.
+Q6: The first highlighted line is the argument and the second highlighted line is the debug log method parameter.
 
 
-Q7: Transform is a variable type and is used as a variable instead.
+Q7: Transform is a class and is used as an object instead.
 
 
 Q8: _playerTransform
 
 ### Activity 3
+https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing
