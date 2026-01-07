@@ -33,4 +33,4 @@ Q7: Transform is a class and is used as an object instead.
 Q8: _playerTransform
 
 ### Activity 3
-https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing
+[Group 14 MG1 Breakdown](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
