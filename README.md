@@ -15,7 +15,7 @@ Q1: x is 10.
 Q2: x is 2.
 
 
-Q3: The lines of code calls the method "PrintMessage()" and that prints the message "hello world" in the debug log.
+Q3: The lines of code calls the method "PrintMessage()" and that prints the message "hello world" in the debug log for every frame.
 
 
 Q4: MonoBehaviour
