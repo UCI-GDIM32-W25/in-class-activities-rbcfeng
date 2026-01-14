@@ -43,3 +43,5 @@ Q8: _playerTransform
 <img width="991" height="742" alt="Screenshot 2026-01-13 180420" src="https://github.com/user-attachments/assets/2e7fd6f8-01ff-4bc7-a486-5ad7e3300498" />
 
 ### Activity 2
+[In=class activity Commit](https://github.com/UCI-GDIM32-W25/mg2-rbcfeng/commit/a3c4ade6d514f282262ce9405bbb5d1715178d7c)
+I created the Player, Coins, and GameController scripts, coded the player jump movement, and added colliders and rigidbodies to the player, coins, and the ground. I've also add the points UI on the canvas.
