@@ -34,3 +34,10 @@ Q8: _playerTransform
 
 ### Activity 3
 [Group 14 MG1 Breakdown Google Doc](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
+
+
+## Week 2
+### Activity 1
+<img width="991" height="742" alt="Screenshot 2026-01-13 180420" src="https://github.com/user-attachments/assets/2e7fd6f8-01ff-4bc7-a486-5ad7e3300498" />
+
+### Activity 2
