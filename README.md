@@ -56,3 +56,21 @@ Frances Kim
 
 ### Activity 3
 <img width="965" height="750" alt="Screenshot 2026-01-20 185045" src="https://github.com/user-attachments/assets/8253422c-1361-4f0b-b7a3-92c5b1074421" />
+
+
+
+
+## Week 4
+### Activity 0
+Frances Kim
+
+### Activity 1
+The Locator objects disappear from the scene because the if statement in the Awake method in the Locator class is making sure that all Locators except one copy is destroyed.
+
+### Activity 2
+<img width="966" height="742" alt="Screenshot 2026-01-27 185632" src="https://github.com/user-attachments/assets/c36af64d-0e08-4ab6-bccc-50700cb67917" />
+
+### Activity 3
+[In-class Activity Commit](https://github.com/rbcfeng/HW4/commit/1e0098e0fda21348c298d5291dbdbe83e31f1ca8)
+
+I created the Unity project, added sprites on the scene, added jump movement, added the points UI, and added the scripts.
