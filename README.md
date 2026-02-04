@@ -95,4 +95,5 @@ We would need to use the finite state machine with C# enums for player animation
 
 ### Activity 4
 Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her, Nansong Sun
+
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/12oXcMbRqu-4vIfI7XU0rpLQhKyyF9Gy7RNBljYCJIrA/edit?usp=sharing)
