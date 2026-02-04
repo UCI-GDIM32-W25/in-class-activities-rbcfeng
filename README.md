@@ -74,3 +74,25 @@ The Locator objects disappear from the scene because the if statement in the Awa
 [In-class Activity Commit](https://github.com/rbcfeng/HW4/commit/1e0098e0fda21348c298d5291dbdbe83e31f1ca8)
 
 I created the Unity project, added sprites on the scene, added jump movement, added the points UI, and added the scripts.
+
+
+
+
+## Week 5
+### Activity 1
+I noticed that there was a definition for the _durability member variable for each class that inherited from the Item class. To make it better, it would be nice to have the _durability member variable defined in the parent class, which would be in the Item class. That way, each child class can inherit the definition of _durability based on the item they are and edit the value. Something that would be even better would be to have each item type as a scriptable object, so that designers can edit each statistic without having to look at the code.
+
+### Activity 2
+The classes that represent model would be the EnemyStats and ItemW5Demo2 classes because they manage the ScriptableObjects game data. The classes that represent the view would be the DialogueBubble and InventoryUI classes because they manage what the player sees, which would be the dialogue for each sprite and the inventory UI. The classes that represent the controller would be the PlayerW5Demo2 and the EnemyW5Demo2 because they are the logic that makes the player move and when the enemy shows dialogue.
+
+### Activity 3
+#### Scenario 1
+The beats are scriptable objects that describes the type of notes, the speed, and the appropriate keys pressed. There should be prefabs of the beat sprites.
+#### Scenario 2
+The MVC pattern is used, as the model would be the different weapon stats, the view would be the UI that shows activating abilities, and the controller would be how each weapon functions when it is used by the player.
+#### Scenario 3
+We would need to use the finite state machine with C# enums for player animations, inheritance for an item parent class with plants, seeds, rocks, and other types of items, a singleton as a locator for the player, and scriptable objects to define each type of plant and other items. For inheritance, the abstract classes could be the different types of plants that could be planted and the interface classes could be the items that can be broken. We would use the MVC pattern since the scriptable objects are the models, the UI and audio can be the view aspect, and the controller can be how long the plant is ready to harvest.
+
+### Activity 4
+Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her, Nansong Sun
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/12oXcMbRqu-4vIfI7XU0rpLQhKyyF9Gy7RNBljYCJIrA/edit?usp=sharing)
