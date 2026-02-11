@@ -97,3 +97,41 @@ We would need to use the finite state machine with C# enums for player animation
 Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her, Nansong Sun
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/12oXcMbRqu-4vIfI7XU0rpLQhKyyF9Gy7RNBljYCJIrA/edit?usp=sharing)
+
+
+
+
+## Week 6
+### GDW Activity Alternate
+
+#### Talk: Freelance Senior Narrative Writer, Cory Lanham
+
+Notes:
+- Game writers collaborate with design, art, animation, audio, engineering, and studio leadership (a lot of communication with other departments)
+- Freelance writers are independent contractors, and not an official employee at a studio
+- In-House writers however, are full-time studio employees
+- There’s more ownership being an in-house writer, more influence to narrative decision
+- In pre-production, there is a high-level narrative summary, setting and characters, detailed story outlines, narrative delivery methods (how it’s told), sort out databases
+- Production includes writing cinematic and mission scripts (and re-writing them) and collaborating with the leadership and level design about these cinematic and mission scripts
+- Other parts in production include systemic dialogue, worldbuilding and lore, UI/UX text, and casting and recording
+- Writing is cheap until it’s mostly redoing, revising, and collaborating with the other departments
+- Post-production to ship includes marketing materials
+- Tools of the trade: Google Docs/MS Office (especially Excel/Sheets), narrative implementation
+- Breaking in to writing: look for work in another department, QA (most common, Quality Assurance, software testing), internships, look for opportunities to help the narrative team, build your portfolio (make games with a team or yourself, game jams), networking (including Discord servers)
+- Writing in a game rather than other types of writing (like magazines, news) is usually weighted more, but it’s nice to have other types of writing in your portfolio
+- Design should be more of the driving force of the game than the other departments (they are responsible for structuring the game)
+- Resources: Video Game Stroytelling (Skolnick), The Game Narrative Toolbox (Heussner, et al.), The Game Writing Guide (Megill), The Video Game Writer's Guide to Surviving an Industry That Hates You (Richard Dansky)
+- Websites: gamejobs.co, gracklehq.com, matthewseigi.itch.io/twwds
+
+#### Talk: Technical Artist @Secret Door, Stephen Coan
+
+Notes:
+- technical art is about implementing art in a game engine, building art pipelines (removing techincal barriers from implementing art to game), making the artistic process simpler and faster
+- technical art is a combination between art and engineering
+- There are three board categories about it: character tech art (rigging and skinning, and animation tools), tool tech art (asset management, art import/export, engine hookup, workflow simplification), and runtime tech art (shaders (how things should be rendered by the GPU) , procedural generation, optimization)
+- There is usually character tech arts, or tools + runtime tech artists
+- Tech art work crosses into different disciplines like techincal design and gameplay engineering
+- examples of tech art includes: scene footprints (a tool that warns artists if they buily a scene too large to ship), FX Data Hookup Tooling (connecting FX behavior to gameplay), changes to character rendering (shader logic for tinting base appearance)
+- Valuable skills: strong communication skills, break down complex tasks into more approachable steps, helping others achieve their passions, excitement about learning new things
+- Things to learn about: shader editing in Unity or Unreal, scritping for 3D modeling tools (Blender, Maya, Houdini), runtime optimization (hardest, requires knowledge of computer hardware)
+- If you want to do an optimization portfolio, you can find assets on the Unity store and optimize it and the explanation on how you optimize it is your portfolio
