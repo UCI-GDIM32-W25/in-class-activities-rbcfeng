@@ -135,3 +135,28 @@ Notes:
 - Valuable skills: strong communication skills, break down complex tasks into more approachable steps, helping others achieve their passions, excitement about learning new things
 - Things to learn about: shader editing in Unity or Unreal, scritping for 3D modeling tools (Blender, Maya, Houdini), runtime optimization (hardest, requires knowledge of computer hardware)
 - If you want to do an optimization portfolio, you can find assets on the Unity store and optimize it and the explanation on how you optimize it is your portfolio
+
+
+
+
+## Week 7
+### Activity 1
+Notes:
+- the raycast represents the line of sight for the duck
+- the raycast needs an origin point, the direction, the result of the raycast, and how far the raycast fires in the scene
+- the duck has two states: walking towards the player and wandering around
+- RunPursueState() uses a raycast to detect if the raycast hits the player and not an object in the Scene
+- normalize the meToTarget vector and multiply the distance travelled by _speed and Time.deltaTime so the duck doesn't teleport to the target destination
+- use world-space for Transform.Translate
+- yellow spheres detect obstacles so the duck avoids it rather than walking into it
+
+### Activity 2
+Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her, Nansong Sun
+
+### Activity 3
+<img width="966" height="742" alt="GDIM32FinalBreakdown" src ="https://github.com/user-attachments/assets/eca692e9-7168-4654-8ef7-9bbda475ea20" />
+
+### Activity 4
+[Tasks](https://docs.google.com/spreadsheets/d/1Zv6t-jtaA3FyTzVV6nuGgsbLFK90LGVoSos6l5H0YpU/edit?usp=sharing)
+
+### Activity 5
