@@ -160,3 +160,6 @@ Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her, Nansong Sun
 [Tasks](https://docs.google.com/spreadsheets/d/1Zv6t-jtaA3FyTzVV6nuGgsbLFK90LGVoSos6l5H0YpU/edit?usp=sharing)
 
 ### Activity 5
+[In-class activity Commit](https://github.com/fnkim/GDIM32-Final/commit/3b0e9f8f2e3282fa757b219b2f05825a1869e9f7)
+
+I added a folder for ScriptableObjects and a C# script with the traveller NPC dialogue.
