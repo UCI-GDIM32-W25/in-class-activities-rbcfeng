@@ -154,7 +154,7 @@ Notes:
 Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her, Nansong Sun
 
 ### Activity 3
-<img width="966" height="742" alt="GDIM32FinalBreakdown" src ="https://github.com/user-attachments/assets/eca692e9-7168-4654-8ef7-9bbda475ea20" />
+<img width="555" height="740" alt="GDIM32FinalBreakdown" src ="https://github.com/user-attachments/assets/eca692e9-7168-4654-8ef7-9bbda475ea20" />
 
 ### Activity 4
 [Tasks](https://docs.google.com/spreadsheets/d/1Zv6t-jtaA3FyTzVV6nuGgsbLFK90LGVoSos6l5H0YpU/edit?usp=sharing)
