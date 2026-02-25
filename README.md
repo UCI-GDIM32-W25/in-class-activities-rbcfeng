@@ -163,3 +163,35 @@ Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her, Nansong Sun
 [In-class activity Commit](https://github.com/fnkim/GDIM32-Final/commit/3b0e9f8f2e3282fa757b219b2f05825a1869e9f7)
 
 I added a folder for ScriptableObjects and a C# script with the traveller NPC dialogue.
+
+
+
+
+## Week 8
+### Activity 1
+Notes:
+- rendering pipeline is a sequence of instructions for how everything in a game should be drawn on the screen
+- the rendering pipeline determines what shaders will work for that pipeline
+- make sure that materials from the assets store are compatible with the rendering pipeline you use
+- post-processing effects are shaders used that affect the entire screen
+- you can set up post-processing in the built-in pipeline by downloading the post-processing package from the Unity registry
+
+### Activity 2
+Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her
+
+### Activity 3
+Feedback:
+- Wondering if they get to interact with certain things (things that pop out from the environment)
+- Didn't know how and if they collected the bushes (put some notifier of collection like sound or visual effect)
+- Good perspective
+- Likeable aethetics
+- "I love the transgender color palette"
+- Nice movement
+
+### Activity 4
+I will work on the level design of the game, the character icon dialogue UI, and the beginning cutscenes this week.
+
+### Activity 5
+[In-class activity Commit](https://github.com/fnkim/GDIM32-Final/commit/e7eea6b9d407fff0c2d66763b550bf1a8f94ed85)
+
+I did the level design by adding more trees and bushes.
