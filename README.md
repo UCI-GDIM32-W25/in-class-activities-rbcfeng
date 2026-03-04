@@ -195,3 +195,31 @@ I will work on the level design of the game, the character icon dialogue UI, and
 [In-class activity Commit](https://github.com/fnkim/GDIM32-Final/commit/e7eea6b9d407fff0c2d66763b550bf1a8f94ed85)
 
 I did the level design by adding more trees and bushes.
+
+
+
+
+## Week 9
+### Activity 1
+Notes:
+- understanding scaling helps a lot outside of being a GDIM student, as many game projects outside classes will involve collaboration with teammates with not much programming background
+-  adding scriptable objects allow dialogue options to easily fold back into the same dialogue nodes as in other dialogue options
+- scriptable objects allow easier management of dialogue options, like how some dialogue options give the player two player reply options, and some have only one player reply option
+
+### Activity 2
+Attendance: Rebecca Feng, Landon Peev Xwm Her
+
+### Activity 3
+Feedback:
+- clicking to advance the beginning cutscene images is clear
+- advancing dialogue by pressing the E key is clear
+- playtesters do not know they can see the inventory by pressing the Tab key
+- it's not obvious that the ingredient list under the candy tart image is something the player has already or ingredients needed to make a candy tart
+- the strawberry icon does not look much like a strawberry
+- the worm does not look like a worm enough and they could not see it move unless they inspect it closely
+- collecting everything on the map seems to be very enjoyable
+
+### Activity 4
+We are almost halfway through the project. We need to add a function for the oven to make the candy tart, finish up the cutscene images, code the dialogue system, and code the side quest for the squirrel NPC. Our project scope might still be ok for now, since most of our teammates are currently occupied with other tasks.
+
+### Activity 5
