@@ -223,3 +223,6 @@ Feedback:
 We are almost halfway through the project. We need to add a function for the oven to make the candy tart, finish up the cutscene images, code the dialogue system, and code the side quest for the squirrel NPC. Our project scope might still be ok for now, since most of our teammates are currently occupied with other tasks.
 
 ### Activity 5
+[In-class activity Commit](https://github.com/fnkim/Nerds-Cluster-Final/commit/c3ff41b2dc01cc97f0ad629ccadf83cca5f3a715)
+
+I added a locator to the PlayerInteractor script and edited the prompt text of the lemon bushes from "Collect" to "Pick up" so it would be consistent with the prompt text with other gummy berry bushes.
