@@ -226,3 +226,28 @@ We are almost halfway through the project. We need to add a function for the ove
 [In-class activity Commit](https://github.com/fnkim/Nerds-Cluster-Final/commit/c3ff41b2dc01cc97f0ad629ccadf83cca5f3a715)
 
 I added a locator to the PlayerInteractor script and edited the prompt text of the lemon bushes from "Collect" to "Pick up" so it would be consistent with the prompt text with other gummy berry bushes.
+
+
+
+
+## Week 10
+### Activity 1
+Attendance: Rebecca Feng, Frances Nareh Kim, Landon Peev Xwm Her
+
+### Activity 2
+Feedback:
+- confusion due to the game being incomplete; playtesters tried doing stuff that wasn't implemented yet. For example, they tried to catch the worm but couldn't.
+- Good responses to the cutscene
+- Collecting is satisfying? Playtesters kept trying to collect every object
+- Sprinting ability would be nice
+- Adjust border to be more intuitive. Some of the colliders are in odd places
+- Change the UI to make it match better (also due to game being incomplete)
+- Change the beginning cutscene to progress through button rather than clicking since mouse clicks are not utilized anywhere else
+
+### Activity 3
+Our project seems pretty on pace so far, and the scope seems reasonable. The remaining tasks we still need to do is to implement the rest of the dialogue lines, the ending cutscene, the worm collection, and the cooking mechanic.
+
+### Activity 4
+[In-class activity Commit](https://github.com/fnkim/Nerds-Cluster-Final/commit/eb9425fb561321fd465613dcf8e182eaceaa4588)
+
+I've added more colors to the worms and placed them around the Scene. I also added a script for the worm so I can work on making it interactable.
